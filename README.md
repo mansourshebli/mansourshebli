@@ -13,6 +13,8 @@
 
 - 💬 Ask me about **my favorite resources for self-development and coding practice**
 
+- ⌕ My Discord account: **qzrv**
+
 - ⚡ Fun fact; **Keep debugging and claim!**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansourshebli&label=Profile%20views&color=0e75b6&style=flat" alt="mansourshebli" /> </p>
