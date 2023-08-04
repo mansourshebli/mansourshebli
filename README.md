@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **my favorite resources for self-development and coding practice**
 
-- ⌕ My Discord account: **qzrv**
+- ⌕ My Discord username: **qzrv**
 
 - ⚡ Fun fact; **Keep debugging and claim!**
 
