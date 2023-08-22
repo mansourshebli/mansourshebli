@@ -73,6 +73,6 @@
 
 ###
 
-<h3 align="center">"First, solve the problem. Then, write the code.” <br><br>– John Johnson</h3>
+<h3 align="center">**"First, solve the problem. Then, write the code.”** <br><br>_– John Johnson_</h3>
 
 ###
