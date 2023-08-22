@@ -59,11 +59,9 @@
 
 <br clear="both">
 
-<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHh1eW9zb3llZW15em5vcDFyYThpcnJqbGJnd2l3YTdyaWQ5cWQzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/mansourshebli/mansourshebli/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHh1eW9zb3llZW15em5vcDFyYThpcnJqbGJnd2l3YTdyaWQ5cWQzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif"  />
+</div>
 
 ###
 
@@ -72,5 +70,9 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/mansourshebli/count.svg?"  />
 </div>
+
+###
+
+<h3 align="center">"First, solve the problem. Then, write the code.” <br><br>– John Johnson</h3>
 
 ###
